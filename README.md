@@ -9,7 +9,7 @@ An online portfolio showcasing my skills, education, and experience.
 
 ## How to Use
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/virtual-cv.git
+   git clone https://github.com/Mabongs/virtual-cv.git
 2. Open `index.html` in a browser.
 
 ## Live Preview
