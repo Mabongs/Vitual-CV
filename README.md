@@ -13,4 +13,4 @@ An online portfolio showcasing my skills, education, and experience.
 2. Open `index.html` in a browser.
 
 ## Live Preview
-[View it here](https://YOUR_USERNAME.github.io/virtual-cv/)
+[View it here](https://github.com/Mabongs/Vitual-CV)
